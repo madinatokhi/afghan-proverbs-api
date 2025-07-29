@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "textDari": "سکوت بهتر از صحبت بی‌مورد است",
+    "textPashto": "چپتیا له بې ځایه خبرو ښه ده",
+    "translationEn": "Silence is better than unnecessary talk",
+    "meaning": "Sometimes it is wiser to stay silent than to speak without purpose.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "هر که بامش بیش برفش بیشتر",
+    "textPashto": "څوک چې لوړه بام لري، ډیر واوره پرې راځي",
+    "translationEn": "The higher the roof, the more snow it gets",
+    "meaning": "Those with greater status or wealth face greater problems.",
+    "category": "advice"
+  },
+  {
+    "id": 3,
+    "textDari": "کار نیکو کردن از پر کردن است",
+    "textPashto": "ښه کار کول له پیل کولو نه دی بلکې له دوام سره دی",
+    "translationEn": "Doing a good job is from continuation, not just starting",
+    "meaning": "Success comes from persistence, not just beginning.",
+    "category": "wisdom"
+  },
+  {
+    "id": 4,
+    "textDari": "از کوزه همان برون تراود که در اوست",
+    "textPashto": "څه چې په لوټۍ کې وي، هغه به بهر راوځي",
+    "translationEn": "What comes out of the jug is what is inside it",
+    "meaning": "People show what is inside them through their actions and words.",
+    "category": "wisdom"
+  }
+]
+
